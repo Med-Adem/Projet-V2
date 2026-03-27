@@ -1,0 +1,17 @@
+# === Backend (Spring Boot) ===
+it-portal/target/
+it-portal/.mvn/
+it-portal/*.iml
+it-portal/.idea/
+it-portal/*.class
+
+# === Frontend (React/Vite) ===
+oetn-frontend/node_modules/
+oetn-frontend/dist/
+oetn-frontend/.vite/
+
+# === General ===
+.DS_Store
+*.log
+.env
+*.env.local
